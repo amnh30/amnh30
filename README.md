@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nageeb</h1>
-<h3 align="center">Cybersecurity Enthusiast | Future AppSec Specialist | Passionate about Secure Systems & Ethical Hacking</h3>
+<h3 align="center">Senior EPE Student | ISC2 Cybersecurity Certified | CEH By Cisco | CyberOps Associate & CCNA @ Rwad Misr (DEPI) | CyberSecurity Trainee @ NTI | Driven by Passion for Learning & Innovation</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amnh30&label=Profile%20views&color=0e75b6&style=flat" alt="amnh30" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amnh30" alt="amnh30" /></a> </p>
 
 - 🌱 I’m currently learning **I'm currently deepening my expertise in cybersecurity operations, particularly focusing on network defense strategies, threat detection, and incident response. Alongside this, I’m also exploring the intersection of AI and cybersecurity through prompt engineering — optimizing how AI models respond in security scenarios. Every day is an opportunity to sharpen my skills, especially in tools like SIEM, SOAR, and vulnerability management platforms.**
 
@@ -10,6 +14,10 @@
 - 💬 Ask me about **Ask me about securing enterprise networks, penetration testing, or handling cyber incidents. I’ve led cybersecurity teams, hosted workshops on ethical hacking and forensics, and implemented real-world network segmentation projects. I’d love to chat about anything from vulnerability assessments to how AI can help in modern threat detection!**
 
 - 📫 How to reach me **AhmedNageeb1307@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amnh30&show_icons=true&locale=en&layout=compact" alt="amnh30" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amnh30&show_icons=true&locale=en" alt="amnh30" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amnh30&" alt="amnh30" /></p>
